@@ -1,0 +1,9 @@
+{
+  "name": "rizz-automation",
+  "version": "1.0.0",
+  "main": "automation.js",
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "playwright": "^1.18.0"
+  }
+}
